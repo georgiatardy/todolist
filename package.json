@@ -11,7 +11,12 @@
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "express-validator": "^3.2.1",
+    "handlebars": "^4.0.10",
+    "morgan": "^1.8.2",
     "mustache": "^2.3.0",
-    "mustache-express": "^1.2.5"
+    "mustache-express": "^1.2.5",
+    "session": "^0.1.0"
   }
 }
